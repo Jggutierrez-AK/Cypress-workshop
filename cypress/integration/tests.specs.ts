@@ -1,7 +1,6 @@
 describe('Simple test workshop Cypress io...', function () {
     before(function () {
         cy.visit('/')
-        // cy.load();
     })
 
     describe('Validates that the title of the actual page is "Kitchen Sink"...', function () {
