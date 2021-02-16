@@ -59,17 +59,6 @@ describe('Simple test workshop Cypress io...', function () {
       
       })
 
-      it('Interacts with canvas...', function () {
-        
-        cy.get('#action-canvas')
-          .click('top')
-          .click('left')
-          .click('right')
-          .click('bottom')
-          .click('center')
-      
-      })
-
       it('Approves that check-boxes are cheked...', function () {
 
         // check() => mark a checkbox input
