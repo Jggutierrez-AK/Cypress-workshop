@@ -1,0 +1,5 @@
+{
+    "baseUrl": "https://example.cypress.io/",
+    "supportFile": "cypress/support/index.ts"
+}
+  
